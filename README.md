@@ -166,8 +166,6 @@ RTX 3090演示版本专注于核心路由功能演示，而非完整训练评估
 
 We sincerely thank [Deepseek-R1](https://github.com/deepseek-ai/DeepSeek-R1) and [Search-R1](https://github.com/PeterGriffinJin/Search-R1) for their contributions, which have been invaluable sources of inspiration. This project builds upon the foundation laid by [veRL](https://github.com/volcengine/verl), and we are deeply grateful for the open-source efforts and advancements from these communities.
 
-**Special thanks to [Jackksonns](https://github.com/Jackksonns) for adapting Router-R1 to RTX 3090 environment and creating this demonstration version.**
-
 
 
 ## 📚 Citation
