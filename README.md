@@ -3,7 +3,7 @@
 
 Official implementation of Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning
 
-**Forked and adapted to RTX 3090 demo environment by [Jackksonns](https://github.com/Jackksonns)**
+**Forked and adapted to RTX 3090 demo environment by [Jackson ZHOU](https://github.com/Jackksonns)**
 
 
 <p align="center">
@@ -53,7 +53,7 @@ Official implementation of Router-R1: Teaching LLMs Multi-Round Routing and Aggr
 
 ## Project News
 
-**[2025.08]** 🚀 **RTX 3090 Demo by [Jackksonns](https://github.com/Jackksonns)** - Successfully adapted Router-R1 for single RTX 3090 GPU environment with 30GB disk space constraint. Full implementation report available in project documentation.
+**[2025.08]** 🚀 **RTX 3090 Demo by [Jackson ZHOU](https://github.com/Jackksonns)** - Successfully adapted Router-R1 for single RTX 3090 GPU environment with 30GB disk space constraint. Full implementation report available in project documentation.
 
 **[2025.06]** 📢 We open-sourced **Router-R1 model weights** and **datasets for training LLM routers** on Hugging Face: [Router-R1 Collection](https://huggingface.co/collections/ulab-ai/router-r1-6851bbe099c7a56914b5db03). We hope this release will support and accelerate research on LLM routers within the community. For more updates, check out our latest [Twitter post](https://x.com/haozhen_ntu/status/1933897400302948843). Also, don't miss U Lab's [GraphRouter](https://github.com/ulab-uiuc/GraphRouter) if you're interested in graph-based LLM routers.
 
@@ -63,7 +63,7 @@ Official implementation of Router-R1: Teaching LLMs Multi-Round Routing and Aggr
 
 ## RTX 3090演示实现
 
-这个由[Jackksonns](https://github.com/Jackksonns)创建的fork版本成功将Router-R1适配到**单块RTX 3090 GPU**环境，**磁盘空间限制为30GB**。
+这个由[Jackson ZHOU](https://github.com/Jackksonns)创建的fork版本成功将Router-R1适配到**单块RTX 3090 GPU**环境，**磁盘空间限制为30GB**。
 
 ### 实现的功能
 - **完整路由架构**: 100%基于原项目组件
